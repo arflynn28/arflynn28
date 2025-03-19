@@ -8,6 +8,10 @@ I work on geospatial ML, remote sensing, and GIS development. I also have a tota
 
 - 🤖 TensorFlow – Slowly but surely making sense of neural networks for remote sensing.
 
+- 🏗️ CAD & OpenRocket – Because designing rockets for LiDAR experiments sounds fun. 🚀
+
+- 🖥️ BlenderGIS – Playing around with terrain modeling and visualization.
+
 🌍 What I’m Into
 
 - AI for geospatial analysis – because maps should be smart.
@@ -18,14 +22,16 @@ I work on geospatial ML, remote sensing, and GIS development. I also have a tota
 
 🤝 Looking to Collaborate On
 
-- Open-source GIS & remote sensing tools.
+- Building AI-powered GIS tools.
 
-- AI/ML projects for environmental or spatial analysis.
+- Applying deep learning to remote sensing data.
 
-- Anything involving satellites, big geospatial data, or crazy ideas.
+- Optimizing geospatial workflows with Python & JavaScript.
+
+- Exploring LiDAR processing & analysis (bonus points if it involves rockets 🚀).
 
 📫 Email: arflynn28@gmail.com
 
 😄 Pronouns: He/Him
 
-🎵 Fun fact: I play the banjo—because every scientist needs a backup plan.
+🎵 Fun fact: I play the banjo - Alway's gotta have a backup plan
