@@ -1,5 +1,5 @@
 # 🛰️ Hey, I’m @arflynn28!
-I work on geospatial ML, remote sensing, and GIS development. I also have a totally unnecessary but fun idea: rocket-based LiDAR for high-speed terrain mapping. Let’s see where that goes.
+I work on geospatial ML, remote sensing, and GIS development.
 
 🌱 What I’m Learning
 - 🐍 Python – Pretty solid, using it for geospatial & remote sensing work.
@@ -34,4 +34,4 @@ I work on geospatial ML, remote sensing, and GIS development. I also have a tota
 
 😄 Pronouns: He/Him
 
-🎵 Fun fact: I play the banjo - Alway's gotta have a backup plan
+🎵 Fun fact: I play the banjo
