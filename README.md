@@ -8,7 +8,7 @@ I work on geospatial ML, remote sensing, and GIS development.
 
 - 🤖 TensorFlow – Slowly but surely making sense of neural networks for remote sensing.
 
-- 🏗️ CAD & OpenRocket – Because designing rockets for LiDAR experiments sounds fun. 🚀
+- 🏗️ CAD & OpenRocket – Because designing rockets for LiDAR experiments sounds fun.🚀
 
 - 🖥️ BlenderGIS – Playing around with terrain modeling and visualization.
 
