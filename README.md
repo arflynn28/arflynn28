@@ -4,13 +4,13 @@ I work on geospatial ML, remote sensing, and GIS development.
 🌱 What I’m Learning
 - 🐍 Python – Pretty solid, using it for geospatial & remote sensing work.
 
-- 📌 JavaScript – Still taming the beast (especially for GIS apps).
+- 📌 JavaScript – Still taming the beast (especially for GIS applications).
 
 - 🤖 TensorFlow – Slowly but surely making sense of neural networks for remote sensing.
 
 - 🏗️ CAD & OpenRocket – Because designing rockets for LiDAR experiments sounds fun.🚀
 
-- 🖥️ BlenderGIS – Playing around with terrain modeling and visualization.
+- 🖥️ BlenderGIS – Playing around with terrain modeling, visualization, and LiDAR point cloud modelling.
 
 🌍 What I’m Into
 
@@ -21,8 +21,6 @@ I work on geospatial ML, remote sensing, and GIS development.
 - Rocket-based LiDAR? A ridiculous idea, but I kinda want to make it happen. 🚀
 
 🤝 Looking to Collaborate On
-
-- Building AI-powered GIS tools.
 
 - Applying deep learning to remote sensing data.
 
