@@ -18,15 +18,11 @@ I work on geospatial ML, remote sensing, and GIS development.
 
 - Remote sensing & GIS development – turning data into insights.
 
-- Rocket-based LiDAR? A ridiculous idea, but I kinda want to make it happen. 🚀
-
 🤝 Looking to Collaborate On
 
 - Applying deep learning to remote sensing data.
 
 - Optimizing geospatial workflows with Python & JavaScript.
-
-- Exploring LiDAR processing & analysis (bonus points if it involves rockets 🚀).
 
 📫 Email: arflynn28@gmail.com
 
