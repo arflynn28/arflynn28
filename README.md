@@ -16,12 +16,6 @@ I work on geospatial ML, remote sensing, and GIS development.
 
 - Remote sensing & GIS development – turning data into insights.
 
-🤝 Looking to Collaborate On
-
-- Applying deep learning to remote sensing data.
-
-- Optimizing geospatial workflows with Python & JavaScript.
-
 📫 Email: arflynn28@gmail.com
 
 😄 Pronouns: He/Him
