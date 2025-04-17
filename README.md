@@ -18,6 +18,10 @@ I work on geospatial ML, remote sensing, and GIS development.
 
 - Exploring ways to inspire and educate young people about Earth Observation and geospatial tech.
 
+🧠 Projects I’m Working On
+
+- 🎵 **Earth Observation Soundscapes** – Sonifying satellite data into music by mapping geospatial variables to pitch, rhythm, and instruments. (In Progress)
+
 📫 Email: arflynn28@gmail.com
 
 😄 Pronouns: He/Him
