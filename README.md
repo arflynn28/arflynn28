@@ -16,6 +16,8 @@ I work on geospatial ML, remote sensing, and GIS development.
 
 - Remote sensing & GIS development – turning data into insights.
 
+- Exploring ways to inspire and educate young people about Earth Observation and geospatial tech.
+
 📫 Email: arflynn28@gmail.com
 
 😄 Pronouns: He/Him
