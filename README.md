@@ -25,4 +25,5 @@ Projects I’m Working On
 Email: arflynn28@gmail.com
 
 Pronouns: He/Him
+
 Fun fact: I play the banjo
