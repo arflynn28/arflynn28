@@ -1,29 +1,28 @@
-# 🛰️ Hey, I’m @arflynn28!
+# Hey, I’m @arflynn28!
 I work on geospatial ML, remote sensing, and GIS development.
 
-🌱 What I’m Learning
-- 🐍 Python – Pretty solid, using it for geospatial & remote sensing work.
+What I’m Learning
+- Python – Pretty solid, using it for geospatial & remote sensing work.
 
-- 📌 JavaScript – Still taming the beast (especially for GIS applications).
+- JavaScript – Still expanding my understanding (especially for GIS applications).
 
-- 🤖 TensorFlow – Slowly but surely making sense of neural networks for remote sensing.
+- TensorFlow – Slowly but surely making sense.
 
-- 🖥️ BlenderGIS – Playing around with terrain modeling, visualization, and LiDAR point cloud modelling.
+- BlenderGIS – Playing around with terrain modeling, visualization, and LiDAR point cloud modelling.
 
-🌍 What I’m Into
+What I’m Into
 
-- AI for geospatial analysis – because maps should be smart.
+- AI for geospatial analysis
 
-- Remote sensing & GIS development – turning data into insights.
+- Remote sensing & GIS development
 
 - Exploring ways to inspire and educate young people about Earth Observation and geospatial tech.
 
-🧠 Projects I’m Working On
+Projects I’m Working On
 
-- 🎵 **Earth Observation Soundscapes** – Sonifying satellite data into music by mapping geospatial variables to pitch, rhythm, and instruments. (In Progress)
+- **Earth Observation Soundscapes** – Turning satellite data into music by mapping geospatial variables to pitch, rhythm, and instruments. (In Progress)
 
-📫 Email: arflynn28@gmail.com
+Email: arflynn28@gmail.com
 
-😄 Pronouns: He/Him
-
-🎵 Fun fact: I play the banjo
+Pronouns: He/Him
+Fun fact: I play the banjo
